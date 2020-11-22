@@ -1,5 +1,5 @@
   var bullet, wall;
-  var speed, weight;
+  var speed, weight,thickness;
 
   function setup() {
     createCanvas(1600,400);
